@@ -1,4 +1,4 @@
-# ☕ Lista 5 — Java: Estruturas de Decisão (if/else)
+# ☕ Lista 4 — Java: Estruturas de Decisão (if/else)
 
 Exercícios de estruturas de decisão em Java — Faculdade Flamingo (1° Semestre).
 
