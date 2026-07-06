@@ -1,12 +1,12 @@
-# ☕ Lista 4 — Exercícios Java: Laços de Repetição (for)
+# ☕ Lista 5 — Java: Estruturas de Decisão (if/else)
 
-Quarta lista de exercícios com foco na estrutura de repetição `for` em Java.
+Exercícios de estruturas de decisão em Java — Faculdade Flamingo (1° Semestre).
 
 ## 📚 Conteúdo
 
-- Laço for com contadores
-- Acumuladores e somatórios
-- Iterações com condições
+- Estrutura if/else simples e composta
+- Decisões encadeadas
+- Validação de condições
 
 ## 🛠️ Tecnologias
 
